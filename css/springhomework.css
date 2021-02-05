@@ -98,3 +98,53 @@ a{
 	padding: 10px 40px;
 	border:1px solid white;	
 }
+.box3{
+	width: 100%;
+	margin: 0 auto;
+	background-color: #f7f9fa;
+	
+}
+.box3-con{
+	text-align: center;
+	padding:55px 0px 110px;
+	width: 90%;
+	margin: 0px 10%;
+	overflow: hidden;
+}
+.box3-con li{
+	width: 22%;
+	height: 40%;
+	border: 1px solid #dfe1e2;
+	float: left;
+	margin:0px 0.5%;
+	padding-bottom:80px;
+	transition: all 0.5s;
+}
+.box3-con li:hover {	
+	margin-top: -25px;
+}
+.box3-con img{
+	padding: 60px 0px 20px;
+}
+.spreak1{
+	width: 48px;
+	height: 44px;
+}
+.spreak2{
+	width: 40px;
+	height: 44px;
+}
+.box3-con h3{
+	color: #696969;
+	font-weight: 400;
+	font-size: 20px;
+	margin-bottom: 40px;
+}
+.box3-con p{
+	color: #696969;
+	font-family: "宋体";
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 1.8;
+	margin: 0px 8%;
+}
